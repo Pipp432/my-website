@@ -7,7 +7,7 @@ const MainHeader = () => {
 			<NavLink className={classes.selection} to='/welcome'>
 				Welcome
 			</NavLink>
-			<NavLink className={classes.selection} to='/basicInfo'>
+			<NavLink className={classes.selection} to='/basic-info'>
 				Basic Information
 			</NavLink>
 			<NavLink className={classes.selection} to='/skills'>

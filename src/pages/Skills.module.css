@@ -7,3 +7,12 @@
 	align-items: center;
 	gap: 10px;
 }
+.headerText {
+	margin-left: 10px;
+	color: aliceblue;
+}
+li {
+	color: aliceblue;
+	margin-top: 10px;
+	margin-left: 10px;
+}
