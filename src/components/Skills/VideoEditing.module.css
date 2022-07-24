@@ -1,0 +1,42 @@
+.center {
+	position: absolute;
+	left: 10%;
+	top: 50%;
+	transform: translate(-0%, -50%);
+}
+.container {
+	display: flex;
+	margin-left: 10px;
+	flex-direction: row;
+	gap: 220px;
+	position: absolute;
+	bottom: 10px;
+}
+
+.container button {
+	height: 50px;
+	width: 80px;
+	font-size: 15px;
+	background-color: rgb(39, 115, 214);
+	border: solid black 3px;
+	border-radius: 10px;
+	color: aliceblue;
+}
+.container button:hover {
+	background-color: rgb(16, 16, 108);
+}
+.description {
+	position: absolute;
+	top: 37%;
+	left: 37%;
+	width: 250px;
+	color: aliceblue;
+	font-size: medium;
+}
+
+.cardTitle {
+	color: aliceblue;
+	position: absolute;
+	left: 33%;
+	font-size: large;
+}

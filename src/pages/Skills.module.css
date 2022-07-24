@@ -11,8 +11,24 @@
 	margin-left: 10px;
 	color: aliceblue;
 }
-li {
+.liText {
 	color: aliceblue;
 	margin-top: 10px;
+	margin-left: 30px;
+	margin-bottom: 10px;
+	font-size: 30px;
+}
+.showSkill {
+	height: 30px;
+	width: 120px;
+	background-color: rgb(5, 149, 101);
+	border-radius: 10px;
+	border: black 3px;
 	margin-left: 10px;
+	color: white;
+	margin-bottom: 10px;
+}
+.showSkill:hover {
+	background-color: rgb(3, 75, 51);
+	color: whitesmoke;
 }
