@@ -46,7 +46,7 @@ export const CodingData = [
 			"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png",
 	},
 	{
-		name: "JavaScript html & CSS",
+		name: "JavaScript, html & CSS",
 		learned: "2019",
 		place:
 			"Self study & Udemy: The Complete JavaScript Course 2022: From Zero to Expert!",
@@ -54,6 +54,15 @@ export const CodingData = [
 		cardClass: cardClasses.javascript,
 		imgSource:
 			"https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png",
+	},
+	{
+		name: "Unity",
+		learned: "2019",
+		place: "Self study & Udemy",
+		confidence: "3.5",
+		cardClass: cardClasses.unity,
+		imgSource:
+			"https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png",
 	},
 	{
 		name: "Github",

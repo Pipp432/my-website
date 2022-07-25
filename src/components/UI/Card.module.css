@@ -64,6 +64,17 @@
 	position: relative;
 	transition: 0.5s ease-in-out;
 }
+.unity {
+	height: 250px;
+	width: 400px;
+	background-color: rgb(89, 91, 87);
+	border-radius: 20px;
+	border-color: black;
+	border-style: solid;
+	border-width: 3px;
+	position: relative;
+	transition: 0.5s ease-in-out;
+}
 .github {
 	height: 250px;
 	width: 400px;

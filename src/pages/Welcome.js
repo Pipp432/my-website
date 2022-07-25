@@ -2,8 +2,11 @@ import classes from "./Welcome.module.css";
 const Welcome = () => {
 	return (
 		<div className={classes.container}>
-			<h1 className={classes.titleText}>Welocome to Napatra's Website</h1>
-			<h2 className={classes.titleText}>This website is made with React!</h2>
+			<h1 className={classes.titleText}>
+				I'm Front-end Developer, <br />
+				Napatra N.
+			</h1>
+			<h2 className={classes.titleText}>Current Status: Undergratued</h2>
 		</div>
 	);
 };
