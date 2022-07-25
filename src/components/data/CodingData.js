@@ -11,6 +11,15 @@ export const CodingData = [
 			"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png",
 	},
 	{
+		name: "Redux",
+		learned: "2022",
+		place: "Udemy Course: React - The Complete Guide",
+		confidence: "4",
+		cardClass: cardClasses.redux,
+		imgSource:
+			"https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png",
+	},
+	{
 		name: "Java",
 		learned: "2022",
 		place: "University",
