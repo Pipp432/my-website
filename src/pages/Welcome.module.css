@@ -3,8 +3,13 @@
 	color: aliceblue;
 }
 .container {
+	display: flex;
+	align-items: center;
 	height: 300px;
 	width: 100%;
-
 	border-bottom: black solid 3px;
+}
+.pfp {
+	border: solid salmon 3px;
+	border-radius: 10px;
 }

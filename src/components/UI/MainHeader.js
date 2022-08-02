@@ -4,7 +4,8 @@ import { NavLink } from "react-router-dom";
 const MainHeader = () => {
 	return (
 		<div className={classes.mainHeader}>
-			<h1>NN</h1>
+			<h1 className={classes.symbol}>NN</h1>
+			<div className={classes.fullName}>Napatra Navanugraha</div>
 
 			<NavLink className={classes.selection} to='/welcome'>
 				Welcome

@@ -15,8 +15,18 @@
 .selection {
 	color: white;
 	margin-right: 10px;
+	text-decoration: none;
 }
-.mainHeader h1 {
+.symbol {
 	position: absolute;
 	left: 10px;
+}
+.fullName {
+	position: absolute;
+	left: 75px;
+	opacity: 0;
+	font-size: large;
+}
+.symbol:hover + .fullName {
+	opacity: 1;
 }
